@@ -9,6 +9,7 @@ I'm moved by knowledge and challenges, learning new things and putting them into
 As a creative, programming gives me the tools to develop all of my ideas and to keep me challenged every day. 🌱
 
 [![Linkedin profile](https://img.shields.io/badge/Linkedin-Serena%20Bertozzi-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/serenabertozzi)
+
 <hr>
 
 ## Projects
@@ -72,6 +73,10 @@ During this time I've gained most of my Front End and styling skills, with HTML,
 The second part was mostly focused on learning PHP, MVC framework Laravel, OOP and MySQL. During this time I've worked on a pairing project for a Dentist website and a group project for a Marketplace (named "Presto!").
 
 During this course I was introduced to Agile methodology.
+
+💻 **Carrara Academy of Fine Arts** (Sept 2012 to Sept 2014)
+
+I've enrolled a course called "New Technologies of Art" course, where I've learned about art through media like videomaking, photography and creative programming (Processing). 
 
 
 ## When I'm not coding
