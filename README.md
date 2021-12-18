@@ -26,12 +26,11 @@ For more, please see my [GitHub repo list](https://github.com/serenabertozzi?tab
 ## Tech stack 🤖
 - JavaScript (React, Node.js, Express, MongoDB, Jest)
 - Ruby (Rails, Sinatra, RSpec, Capybara)
-- SQL (PostgreSQL, TablePlus)
+- SQL (PostgreSQL, MySQL, TablePlus)
 - HTML, CSS (Bootstrap, Material-UI, Bulma)
+- PHP (Laravel,Composer, Mix)
 - Git, GitHub (including Pages and Actions), GitLab
 - Heroku, AWS
-- Travis CI, CircleCI
-
 
 ## Work Experience 💼
 
@@ -51,7 +50,7 @@ _Self-Employed_
 
 ## Education 📓
 
-💻 Makers Academy (Aug 21 to Dec 21)
+💻 **Makers Academy** (Aug 21 to Dec 21)
 
 After graduating Aulab, I applied to Makers, 16 week highly selective development BootCamp in London.
 
@@ -63,7 +62,7 @@ Makers taught me how to work In pairs and groups, as we where always working on 
 I've improved my Agile skills as well, especially during the three big group projects. 
 
 
-💻 Aulab Hackademy (May 21 to Jul 21)
+💻 **Aulab Hackademy** (May 21 to Jul 21)
 
 Aulab is a coding BootCamp in Italy, I enrolled their course where I started my journey to become a developer. 
 
@@ -73,3 +72,10 @@ During this time I've gained most of my Front End and styling skills, with HTML,
 The second part was mostly focused on learning PHP, MVC framework Laravel, OOP and MySQL. During this time I've worked on a pairing project for a Dentist website and a group project for a Marketplace (named "Presto!").
 
 During this course I was introduced to Agile methodology.
+
+
+## When I'm not coding
+- 👩🏻‍💻I share my experience on my social media profiles, where I talk about being a woman in tech, fashion technologies and what I'm currently working on. 
+- 👾I'm a passionate gamer, I enjoy solo adventures, creative and cozy games and multiplayer experiences.
+- 👖I enjoy thrifting or sewing accessories, I try and sew my own clothes, in general I try my best to support sustainable fashion.
+- ✈️ I travel and learn new languages, I can speak Japanese and a little bit of French and Spanish. I'd love to learn Korean next.
