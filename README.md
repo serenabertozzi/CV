@@ -1,25 +1,39 @@
 <h1 align="center"> Serena Bertozzi </h1>
 <h4 align="center">Junior Full-Stack Developer and Content Creator</h4>
-<hr>
 
 I'm a curious and creative Junior Full-Stack Developer, coming from a Marketing and communication background, who recently graduated from Makers Academy.
-I moved to London in 2018 to improve my skills as a content creator and here I've found my new passion, or better, I like to say that programming found me. 👩🏻‍💻
+I moved to London in 2018 to improve my skills as a content creator and here I've found my new passion, or better, I like to say that programming found me instead. 👩🏻‍💻
 
 I'm moved by knowledge and challenges, learning new things and putting them into practice has always been essential to me, in my 20s I moved to Tokyo, to learn Japanese, and in 2014 I've learned all that I needed to know about social media marketing, creating a Youtube Channel that has been my business for many years. 🗼
 
 As a creative, programming gives me the tools to develop all of my ideas and to keep me challenged every day. 🌱
 
+[![Linkedin profile](https://img.shields.io/badge/Linkedin-Serena%20Bertozzi-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/serenabertozzi)
+<hr>
+
 ## Projects
 
-|Project        |Description                                           |Technologies and processes              |
-|----------|------------------------------------------------------|----------------------------------------|
-|<b>[Life of Bernard ⚔️](https://life-of-bernard.herokuapp.com/)</b>|<div align="center"> A game about becoming a software developer and self-care<br><br>FrontEnd repo [here](https://github.com/serenabertozzi/EP3-Gaming-FE)<br>BackEnd repo [here](https://github.com/serenabertozzi/EP3-Gaming-BE)<br>Deployed at [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/)</div>|MongoDB, Express, React, NodeJs, Material UI, Jest, Mongoose          |
-|<b>[FocusPeach 🍑](https://github.com/serenabertozzi/pomodoro)</b>|<div align="center"> Cute Pomodoro timer for cute and busy people.<br><br>Personal project<br><br>GitHub repo [here](https://github.com/serenabertozzi/pomodoro)</div>|JavaScript, Jest, Bootstrap, CSS|
-|<b>[NewsFeed API 🗞](https://github.com/serenabertozzi/news-summary-challenge)</b>|<div align="center">Weekend challenge -  NewsFeed fetching news from The Guardian API.<br><br>Solo project<br><br>GitHub repo [here](https://github.com/serenabertozzi/news-summary-challenge)</div>|JavaScript, Jest, Bootstrap, CSS|
-|<b>[Chitter 🐦](https://github.com/serenabertozzi/chitter-challenge)</b>|<div align="center">Weekend challenge -  Twitter clone.<br><br>Solo project<br><br>GitHub repo [here](https://github.com/serenabertozzi/chitter-challenge)</div>|Ruby, Sinatra, RSpec, Capybara, PostgreSQL, Bootstrap, CSS|
+|Project        |Description                    | Repositories and Live Links                 |Technologies              |
+|----------|-------------------------------------|--------------------------|-----------------------|
+|<b>[Life of Bernard ⚔️](https://life-of-bernard.herokuapp.com/)</b>|<div align="center"> A game about becoming a software developer and self-care</div>|<div align="center">[Front End](https://github.com/serenabertozzi/EP3-Gaming-FE)<br>[Back End](https://github.com/serenabertozzi/EP3-Gaming-BE)<br>[Live Link](https://life-of-bernard.herokuapp.com/)</div>|MongoDB, Express, React, NodeJs, Material UI, Jest, Mongoose          |
+|<b>[FocusPeach 🍑](https://github.com/serenabertozzi/pomodoro)</b>|<div align="center"> Cute Pomodoro timer for cute and busy people.<br><br>Personal project</div>|<div align="center">[GitHub](https://github.com/serenabertozzi/pomodoro)</div>|JavaScript, Jest, Bootstrap, CSS|
+|<b>[NewsFeed API 🗞](https://github.com/serenabertozzi/news-summary-challenge)</b>|<div align="center">Weekend challenge -  NewsFeed fetching news from The Guardian API.<br><br>Solo project</div>|<div align="center">[GitHub](https://github.com/serenabertozzi/news-summary-challenge)</div>|JavaScript, Jest, Bootstrap, CSS|
+|<b>[Chitter 🐦](https://github.com/serenabertozzi/chitter-challenge)</b>|<div align="center">Weekend challenge -  Twitter clone.<br><br>Solo project</div>|<div align="center">[GitHub](https://github.com/serenabertozzi/chitter-challenge)</div>|Ruby, Sinatra, RSpec, Capybara, PostgreSQL, Bootstrap, CSS|
+
+For more, please see my [GitHub repo list](https://github.com/serenabertozzi?tab=repositories).
 
 
-## Work Experience
+## Tech stack 🤖
+- JavaScript (React, Node.js, Express, MongoDB, Jest)
+- Ruby (Rails, Sinatra, RSpec, Capybara)
+- SQL (PostgreSQL, TablePlus)
+- HTML, CSS (Bootstrap, Material-UI, Bulma)
+- Git, GitHub (including Pages and Actions), GitLab
+- Heroku, AWS
+- Travis CI, CircleCI
+
+
+## Work Experience 💼
 
 **YoPlay Media** (Jan-2019 to Sept-2021)  
 _Editorial Manager_
@@ -29,65 +43,33 @@ _Editorial Manager_
 - I've managed a team of content creators and creatives and we successfully translated our videos and stories into nationally published books.
 
 
-**Matcha Latte then A Tale In Color** (Feb-2014 to Jan-2019)  
+**Matcha Latte** then **A Tale In Color** (Feb-2014 to Jan-2019)  
 _Self-Employed_
 
 - I've created and curated a Youtube Channel (and its social media) and grew a community of 200k+ people passionate about travel and lifestyle.
-- I've managed to create and develop successful product placements campaigns and collaborations with many major brands (Microsoft, Intel, Ebay, Expedia, etc.)
-- Every aspect of the content creation was handled solely by myself.
+- I've managed to create and develop successful product placements campaigns and collaborations with many major brands (Microsoft, Intel, eBay, Expedia, etc.)
 
-<!-- 
-## Skills
+## Education 📓
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+💻 Makers Academy (Aug 21 to Dec 21)
 
--STAR
--What was the situation/task? (ST)
+After graduating Aulab, I applied to Makers, 16 week highly selective development BootCamp in London.
 
--How was the skill used?
+Maker's method was totally different from my previous school, being mostly based on self-led learning.
+We started with TDD, testing Ruby programs we crafted with RSpec, followed by OOD, databases and web development. 
 
--What did you do? (action)
+Makers taught me how to work In pairs and groups, as we where always working on different projects and it gave me confidence to build a full-stack application and use new technologies.
 
--What was the result?
+I've improved my Agile skills as well, especially during the three big group projects. 
 
 
-#### This Skill
+💻 Aulab Hackademy (May 21 to Jul 21)
 
-- Experience
-- Achievements
-- Evidence (STAR)
+Aulab is a coding BootCamp in Italy, I enrolled their course where I started my journey to become a developer. 
 
-#### Another Skill
+It was 100% remote, with workshops in the morning and pairing sessions in the afternoon. 
+During this time I've gained most of my Front End and styling skills, with HTML, CSS and Bootstrap projects. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+The second part was mostly focused on learning PHP, MVC framework Laravel, OOP and MySQL. During this time I've worked on a pairing project for a Dentist website and a group project for a Marketplace (named "Presto!").
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team -->
+During this course I was introduced to Agile methodology.
