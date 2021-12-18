@@ -1,14 +1,22 @@
-<p align="center"> Serena Bertozzi </p>
+<h1 align="center"> Serena Bertozzi </h1>
+<h4 align="center">Junior Full-Stack Developer and Content Creator</h4>
+<hr>
 
-<!-- I'm a curious and creative learner.
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
- -->
+I'm a curious and creative Junior Full-Stack Developer, coming from a Marketing and communication background, who recently graduated from Makers Academy.
+I moved to London in 2018 to improve my skills as a content creator and here I've found my new passion, or better, I like to say that programming found me. 👩🏻‍💻
+
+I'm moved by knowledge and challenges, learning new things and putting them into practice has always been essential to me, in my 20s I moved to Tokyo, to learn Japanese, and in 2014 I've learned all that I needed to know about social media marketing, creating a Youtube Channel that has been my business for many years. 🗼
+
+As a creative, programming gives me the tools to develop all of my ideas and to keep me challenged every day. 🌱
+
 ## Projects
 
 |Project        |Description                                           |Technologies and processes              |
 |----------|------------------------------------------------------|----------------------------------------|
-|<b>[Life of Bernard](https://life-of-bernard.herokuapp.com/)</b>| A game about becoming a software developer and self-care<br><br>FrontEnd repo [here](https://github.com/serenabertozzi/EP3-Gaming-FE)<br>BackEnd repo [here](https://github.com/serenabertozzi/EP3-Gaming-BE)<br>Deployed at [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/)           |MongoDB, Express, React, NodeJs, Material UI, Jest, Mongoose          |
-|<b>[NewsFeed API](https://github.com/serenabertozzi/news-summary-challenge)</b>|Weekend challenge -  NewsFeed fetching news from The Guardian API.<br><br>Solo project<br><br>GitHub repo [here](https://github.com/serenabertozzi/news-summary-challenge)|JavaScript, Jest, Bootstrap, CSS|
+|<b>[Life of Bernard ⚔️](https://life-of-bernard.herokuapp.com/)</b>|<div align="center"> A game about becoming a software developer and self-care<br><br>FrontEnd repo [here](https://github.com/serenabertozzi/EP3-Gaming-FE)<br>BackEnd repo [here](https://github.com/serenabertozzi/EP3-Gaming-BE)<br>Deployed at [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/)</div>|MongoDB, Express, React, NodeJs, Material UI, Jest, Mongoose          |
+|<b>[FocusPeach 🍑](https://github.com/serenabertozzi/pomodoro)</b>|<div align="center"> Cute Pomodoro timer for cute and busy people.<br><br>Personal project<br><br>GitHub repo [here](https://github.com/serenabertozzi/news-summary-challenge)</div>|JavaScript, Jest, Bootstrap, CSS|
+|<b>[NewsFeed API 🗞](https://github.com/serenabertozzi/news-summary-challenge)</b>|<div align="center">Weekend challenge -  NewsFeed fetching news from The Guardian API.<br><br>Solo project<br><br>GitHub repo [here](https://github.com/serenabertozzi/news-summary-challenge)</div>|JavaScript, Jest, Bootstrap, CSS|
+|<b>[Chitter 🐦](https://github.com/serenabertozzi/chitter-challenge)</b>|<div align="center">Weekend challenge -  Twitter clone.<br><br>Solo project<br><br>GitHub repo [here](https://github.com/serenabertozzi/chitter-challenge)</div>|Ruby, Sinatra, RSpec, Capybara, PostgreSQL, Bootstrap, CSS|
 
 
 ## Work Experience
@@ -25,7 +33,7 @@ _Editorial Manager_
 _Self-Employed_
 
 - I've created and curated a Youtube Channel (and its social media) and grew a community of 200k+ people passionate about travel and lifestyle.
-- I've managed to create and develop successful product placements campaigns and collaborations wity many major brands (Microsoft, Intel, Ebay, Expedia, etc.)
+- I've managed to create and develop successful product placements campaigns and collaborations with many major brands (Microsoft, Intel, Ebay, Expedia, etc.)
 - Every aspect of the content creation was handled solely by myself.
 
 <!-- 
