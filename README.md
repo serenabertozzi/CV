@@ -74,7 +74,7 @@ The second part was mostly focused on learning PHP, MVC framework Laravel, OOP a
 
 During this course I was introduced to Agile methodology.
 
-💻 **Carrara Academy of Fine Arts** (Sept 2012 to Sept 2014)
+🎨 **Carrara Academy of Fine Arts** (Sept 2012 to Sept 2014)
 
 I've enrolled a course called "New Technologies of Art" course, where I've learned about art through media like videomaking, photography and creative programming (Processing). 
 
