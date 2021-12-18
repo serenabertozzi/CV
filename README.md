@@ -1,8 +1,7 @@
 <h1 align="center"> Serena Bertozzi </h1>
 <h4 align="center">Junior Full-Stack Developer and Content Creator</h4>
+
 [Projects](#projects) | [Tech Stack](#techstack) | [Work experience](#work) | [Education](#edu) | [Hobbies](#hobbies)
-
-
 
 I'm a curious and creative Junior Full-Stack Developer, coming from a Marketing and communication background, who recently graduated from Makers Academy.
 I moved to London in 2018 to improve my skills as a content creator and here I've found my new passion, or better, I like to say that programming found me instead. 👩🏻‍💻
@@ -14,6 +13,7 @@ As a creative, programming gives me the tools to develop all of my ideas and to 
 [![Linkedin profile](https://img.shields.io/badge/Linkedin-Serena%20Bertozzi-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/serenabertozzi)
 
 <hr>
+
 <div id="projects"></div>
 
 ## Projects
@@ -39,6 +39,7 @@ For more, please see my [GitHub repo list](https://github.com/serenabertozzi?tab
 - Heroku, AWS
 
 <div id="work"></div>
+
 ## Work Experience 💼
 
 **YoPlay Media** (Jan-2019 to Sept-2021)  
@@ -56,6 +57,7 @@ _Self-Employed_
 - I've managed to create and develop successful product placements campaigns and collaborations with many major brands (Microsoft, Intel, eBay, Expedia, etc.)
 
 <div id="edu"></div>
+
 ## Education 📓
 
 💻 **Makers Academy** (Aug 21 to Dec 21)
@@ -86,6 +88,7 @@ During this course I was introduced to Agile methodology.
 I've enrolled a course called "New Technologies of Art" course, where I've learned about art through media like videomaking, photography and creative programming (Processing). 
 
 <div id="hobbies"></div>
+
 ## When I'm not coding
 - 👩🏻‍💻I share my experience on my social media profiles, where I talk about being a woman in tech, fashion technologies and what I'm currently working on. 
 - 👾I'm a passionate gamer, I enjoy solo adventures, creative and cozy games and multiplayer experiences.
