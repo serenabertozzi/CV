@@ -1,7 +1,11 @@
-<h1 align="center"> Serena Bertozzi </h1>
-<h4 align="center">Junior Full-Stack Developer and Content Creator</h4>
+<div align="center">
+  
+<h1> Serena Bertozzi </h1>
+<h4>Junior Full-Stack Developer and Content Creator</h4>
 
 [Projects](#projects) | [Tech Stack](#techstack) | [Work experience](#work) | [Education](#edu) | [Hobbies](#hobbies)
+
+</div>
 
 I'm a curious and creative Junior Full-Stack Developer, coming from a Marketing and communication background, who recently graduated from Makers Academy.
 I moved to London in 2018 to improve my skills as a content creator and here I've found my new passion, or better, I like to say that programming found me instead. 👩🏻‍💻
