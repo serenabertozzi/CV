@@ -66,32 +66,32 @@ _Self-Employed_
 ## Education 📓
 
 💻 **Makers Academy** (Aug 21 to Dec 21)
-```
-After graduating Aulab, I applied to Makers, 16 week highly selective development BootCamp in London.
 
-Maker's method was totally different from my previous school, being mostly based on self-led learning.
-We started with TDD, testing Ruby programs we crafted with RSpec, followed by OOD, databases and web development. 
+After graduating Aulab, I was serious about coding. I resigned from my job and applied to Makers, a 16-week highly selective development bootcamp in London.
 
-Makers taught me how to work In pairs and groups, as we where always working on different projects and it gave me confidence to build a full-stack application and use new technologies.
+Maker's method was quite different from my previous course, being mostly based on **self-led learning**, **pairing sessions** and **weekend challenges**.
+We started with a strong focus on **TDD**, testing **Ruby** programs we crafted with **RSpec**, followed by **BDD**, **OOD**, **databases**, **JavaScript**, **Jest** and other web development technologies. 
 
-I've improved my Agile skills as well, especially during the three big group projects. 
-```
+Makers taught me how to work solo, in pairs and group, as we were always working on different projects and it gave me the confidence to build full-stack applications and use new technologies without any fear.
+
+I've improved my **Agile** skills as well, especially during the three big group projects, where we used **Trello** to organize our work, and allowed everyone the opportunity to act as **SCRUM master**. 
+
 
 💻 **Aulab Hackademy** (May 21 to Jul 21)
-```
-Aulab is a coding BootCamp in Italy, I enrolled their course where I started my journey to become a developer. 
 
-It was 100% remote, with workshops in the morning and pairing sessions in the afternoon. 
-During this time I've gained most of my Front End and styling skills, with HTML, CSS and Bootstrap projects. 
+Aulab is a coding BootCamp in Italy, I enrolled in their course where I started my journey to become a software developer. 
 
-The second part was mostly focused on learning PHP, MVC framework Laravel, OOP and MySQL. During this time I've worked on a pairing project for a Dentist website and a group project for a Marketplace (named "Presto!").
+The lessons were 100% remote, with workshops in the morning and pairing sessions in the afternoon. 
+During this time I've gained most of my front-end and styling skills, with **HTML**, **CSS**, **JavaScript** and **Bootstrap** projects. 
 
-During this course I was introduced to Agile methodology.
-```
+The second part was mostly focused on learning **PHP**, MVC framework **Laravel**, **OOP** and **MySQL**. During this time I've developed a few projects, including a final group project for a Marketplace application in Laravel (named "Presto!").
+
+During this course, I was introduced to Agile methodology, SCRUM and Extreme Programming.
+
 🎨 **Carrara Academy of Fine Arts** (Sept 2012 to Sept 2014)
-```
+
 I've enrolled a course called "New Technologies of Art" course, where I've learned about art through media like videomaking, photography and creative programming (Processing). 
-```
+
 <div id="hobbies"></div>
 
 ## When I'm not coding
