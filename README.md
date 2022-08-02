@@ -53,6 +53,9 @@ _Junior Frontend Engineer_
 ```
 - Developed a digital platform from scratch using React, Typescript, React Query and Redux with my team. 
 - Active role in discussions and presentations of the delivered features.
+- Ensured that all code is well documented, reusable, efficient, and follows best practices.
+- Used source control tools (GitHub) and participated in daily standups and other SCRUM activities.
+- Participated in peer code reviews as appropriate for the task at hand and reviewed others’ code.
 ```
 
 **YoPlay Media** (Jan-2019 to Sept-2021)  
