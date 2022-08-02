@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1> Serena Bertozzi </h1>
-<h4>Junior Full-Stack Developer and Content Creator</h4>
+<h4>Junior Frontend Developer and Content Creator</h4>
 
 
 [![Linkedin profile](https://img.shields.io/badge/Linkedin-Serena%20Bertozzi-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/serenabertozzi) [![](https://img.shields.io/badge/Email-serenabertozzi%40protonmail.com-critical)](mailto:serenabertozzi@protonmail.com)
@@ -10,7 +10,7 @@
 
 </div>
 
-I'm a curious and creative Junior Full-Stack Developer, coming from a Marketing and communication background, who recently graduated from Makers Academy.
+I'm a curious and creative Junior Frontend Developer, coming from a Marketing and communication background, who recently graduated from Makers Academy.
 I moved to London in 2018 to improve my skills as a content creator and here I've found my new passion, or better, I like to say that programming found me instead. 👩🏻‍💻
 
 I'm moved by knowledge and challenges, learning new things and putting them into practice has always been essential to me, in my 20s I moved to Tokyo, to learn Japanese, and in 2014 I've learned all that I needed to know about social media marketing, creating a Youtube Channel that has been my business for many years. 🗼
@@ -104,6 +104,7 @@ I've enrolled a course called "New Technologies of Art" course, where I've learn
 
 ## When I'm not coding
 - 👩🏻‍💻I share my experience on my social media profiles, where I talk about being a woman in tech, fashion technologies and what I'm currently working on. 
+- 🎸 Music lover, karaoke fan, currently learning how to play the bass guitar.
 - 👾I'm a passionate gamer, I enjoy solo adventures, creative and cozy games and multiplayer experiences.
 - 👖I enjoy thrifting or sewing accessories, I try and sew my own clothes, in general I try my best to support sustainable fashion.
 - ✈️ I travel and learn new languages, I can speak Japanese and a little bit of French and Spanish. I'd love to learn Korean next.
