@@ -35,7 +35,9 @@ For more, please see my [GitHub repo list](https://github.com/serenabertozzi?tab
 <div id="techstack"></div>
 
 ## Tech stack 🤖
-- JavaScript (React, Node.js, Express, MongoDB, Jest)
+- React(React Query, Redux)
+- Typescript
+- JavaScript (Node.js, Express, MongoDB, Jest)
 - Ruby (Rails, Sinatra, RSpec, Capybara)
 - SQL (PostgreSQL, MySQL, TablePlus)
 - HTML, CSS (Bootstrap, Material-UI, Bulma)
@@ -46,6 +48,12 @@ For more, please see my [GitHub repo list](https://github.com/serenabertozzi?tab
 <div id="work"></div>
 
 ## Work Experience 💼
+**The Digital Bench** (Jan-2022 to current)  
+_Junior Frontend Engineer_
+```
+- Developed a digital platform from scratch using React, Typescript, React Query and Redux with my team. 
+- Active role in discussions and presentations of the delivered features.
+```
 
 **YoPlay Media** (Jan-2019 to Sept-2021)  
 _Editorial Manager_
