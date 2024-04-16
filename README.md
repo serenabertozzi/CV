@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1> Serena Bertozzi </h1>
-<h4>Junior Frontend Developer and Content Creator</h4>
+<h4>Software Engineer</h4>
 
 
 [![Linkedin profile](https://img.shields.io/badge/Linkedin-Serena%20Bertozzi-0077B5?style=social&logo=linkedin&?labelColor=fff)](http://linkedin.com/in/serenabertozzi) [![](https://img.shields.io/badge/Email-serenabertozzi%40protonmail.com-critical)](mailto:serenabertozzi@protonmail.com)
@@ -10,8 +10,8 @@
 
 </div>
 
-I'm a curious and creative Junior Frontend Developer, coming from a Marketing and communication background, who graduated from Makers Academy in December 2021.
-I moved to London in 2018 to improve my skills as a content creator and here I've found my new passion, or better, I like to say that programming found me instead. 👩🏻‍💻
+I'm a curious and creative Software Engineerr, coming from a Marketing and communication background, who graduated from Makers Academy in December 2021 and currently enrolled in a BSc "Computing & IT & Design from The Open University.
+I moved to London in 2018 to improve my skills as a content creator and here I've found my new passion, or better, I like to say that programming found me instead. 👩🏻‍💻, I relocated to Edinburgh, Scotland in 2022.
 
 I'm moved by knowledge and challenges, learning new things and putting them into practice has always been essential to me, in my 20s I moved to Tokyo, to learn Japanese, and in 2014 I've learned all that I needed to know about social media marketing, creating a Youtube Channel that has been my business for many years. 🗼
 
@@ -49,7 +49,10 @@ For more, please see my [GitHub repo list](https://github.com/serenabertozzi?tab
 <div id="work"></div>
 
 ## Work Experience 💼
-**The Digital Bench** (Jan-2022 to current)  
+**Llloyds Banking Group** (Jan-2024 to current)  
+_Software Engineer_
+
+**The Digital Bench** (Jan-2022 to Dec-2023)  
 _Junior Frontend Engineer_
 ```
 - Developed a digital platform from scratch using React, Typescript, React Query and Redux with my team. 
